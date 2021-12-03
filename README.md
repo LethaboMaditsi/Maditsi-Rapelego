@@ -1,2 +1,2 @@
-# Maditsi-Rapelego
+# Day2
 Maditsi's digital Resume 
